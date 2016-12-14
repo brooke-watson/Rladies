@@ -1,0 +1,44 @@
+---
+title: "R Ladies NYC - Social Committee Pitch"
+author: "Brooke Watson"
+date: "December 13, 2016"
+output: html_document
+---
+
+## Bio
+
+<center>![](http://www.ecohealthalliance.org/wp-content/uploads/2016/10/BrookeWatson-300x178.jpg) </center>
+
+
+
+
+Brooke Watson is a research scientist at [EcoHealth Alliance](http://www.ecohealthalliance.org/personnel/brooke-watson-2), where she uses R to model the emergence and spread of zoonotic diseases from wildlife into humans. She is a microbiologist and epidemiologist by training, and was previously a member of R ladies London while studying at the London School of Hygiene and Tropical Medicine. While in London, she also volunteered with [EmpowerHACK](http://empowerhack.io/), a collective of humanitarian workers, health professionals and developers working to build solutions for refugee women and girls.
+
+
+You can find her on [Github](http://www.github.com/brooke-watson) or [Twitter](http://www.twitter.com/brookLYNevery1).
+
+---
+
+## Social Committee goals   
+
+I am passionate about supporting women in tech and STEM, and is excited about the opportunity to serve the R Ladies NYC community as a member of the social committee. 
+
+As a member of the social committee, I would work to connect R ladies to each other and build the R ladies NYC tribe through both in-person and online activities. 
+
+
+#### Online: R ladies slack.
+
+A channel for discussing all things R - cool new packages, troubleshooting code and peer learning, job opportunities for R users, and links to other hackathons and conferences so that R Ladies can find their kind among the larger NYC data science community. Slack 
+
+
+#### Offline: “Ice cream socials” and R Code Gyms. 
+
+1. Ice cream social: (n). an informal opportunities for the community to get to know one another away from the computer screen. These will be driven by what the community wants, but could include picnics, post-meetup bar nights, and data-minded volunteer opportunities. 
+2. Code Gym: (n). a time and a place for R ladies to meet in person and work on their projects at the same time, spotting each other when necessary. These aren't talks, hackathons, or tutorials - they're a communal space, a commitment device, and a tool to achieve your R goals, whatever they may be. 
+You can work out at home, but it's likely you'll accomplish more at the gym, where everyone is working toward similar but distinct goals. You can get coaching, be encouraged, and learn techniques you wouldn't have noticed by yourself. A code gym is similar. By committing to be at a place and time with like-minded people, you'll get stronger together, even if you're at different phases in your R expertise.
+
+---
+
+These are preliminary ideas: R Ladies contains multitudes, and the social calendar will evolve based on our members needs. I’d start with an interest survey to gauge preferences and availability, and use our connections with other NYC data groups and R Ladies global as a jumping-off point. 
+
+I'm thrilled about what this community is already becoming, and proud to be a part of it. I would love to help connect, excite and enable as a part of the NYC chapter's social committee. 
